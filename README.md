@@ -23,6 +23,9 @@ The Chicago and New York City files also have the following two columns:
 Gender
 Birth Year
 
+### Data provider
+The data is provided by Motivate, a bike share system provider for many major cities in the United States, to uncover bike share usage patterns. You can find out more about the company at www.motivateco.com
+
 ### Statistics Computed
 
 #1 Popular times of travel (i.e., occurs most often in the start time)
